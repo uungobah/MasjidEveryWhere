@@ -1,0 +1,274 @@
+<resources>
+    <string name="app_name">Mosque Everywhere</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="err_msg_username">Enter your username</string>
+    <string name="err_msg_password">Enter your password</string>
+    <string name="err_msg_newpassword">Enter your new password</string>
+    <string name="err_msg_email">Enter valid email address</string>
+    <string name="err_msg_name">Enter your full name</string>
+    <string name="err_msg_firstname">Enter your first name</string>
+    <string name="err_msg_lastname">Enter your last name</string>
+    <string name="err_msg_phone_number">Enter your phone number</string>
+    <string name="err_msg_addres">Enter your address</string>
+    <string name="err_msg_field">Field is mandatory</string>
+    <string name="err_msg_jaringan">Please check your connection!</string>
+    <string name="title_activity_masjid">Mosque</string>
+    <string name="title_activity_masjid__location">Map</string>
+    <string name="s1">Raka\'at Pertama :
+	- Berwudhu terlebih dahulu. (1)\n
+	- Berniat di dalam hati dan tidak dilafazhkan.(2)\n
+	- Menghadap kiblat, yaitu Ka\'bah. (3)\n
+		Perhatian : Menghadap Ka\'bah bukan berarti menyembah Ka\'bah, tetapi
+		tetap menyembah Allah. Kita menghadap Ka\'bah karena kita diperintahkan
+		Allah untuk itu dan kitapun tunduk pada perintah-Nya.
+	- Menempahkan sutrah di hadapanmu.
+		Sutrah yaitu, pembatas, seperti : tembok, tiang, dan lain-lain).
+		Tinggi sutrah yaitu setinggi satu hasta (Dari ujung jari tengah
+		sampai siku). (4)\n
+		Sedangkan jarak antara sutrah dan tempat sujud adalah kira-kira
+		bisa dilalui seekor kambing. (5)\n
+	- Lakukanlah shalat dengan berdiri (Lihat gambar nomor 1).
+		Bila tidak mampu, maka boleh duduk. Bila tidak mampu duduk, maka
+		dengan berbaring, dan jika tidak mampu menggerakkan anggota badan
+		maka boleh dengan isyarat. Bila tidak mampu dengan isyarat, maka
+		dengan hati. (6)\n
+
+	(1) HADITS RIWAYAT MUSLIM.
+	(2) HADITS RIWAYAT AL-BUKHARI DAN MUSLIM.
+	(3) QUR-AN SURAT AL-BAQARAH AYAT 144.
+	(4) HADITS RIWAYAT MUSLIM.
+	(5) HADITS RIWAYAT AL-BUKHARI DAN MUSLIM.
+	(6) HADITS RIWAYAT AL-BUKHARI.
+    </string>
+
+    <string name="s2">
+    - Bertakbiratul ihram, dengan mengucapkan : "Allaahu Akbar" sambil mengangkat
+    kedua tangan sejajar dengan bahu (7)\n atau telinga, (8)\n serta melihat ke
+    tempat sujud, tidak menoleh ke kiri atau ke kanan. (9)\n (Lihat gambar No. 2 dan 3).
+    Mengangkat tangan ketika takbir bisa dilakukan dengan salah satu dari
+    tiga keadaan :
+    1. Sebelum ucapan takbir. (10)\n
+    2. Bersamaan dengan ucapan takbir. (11)\n
+    3. Sesudah ucapan takbir. (12)\n
+    Jari-jemari tangan saat takbir dirapatkan, namun tidak digenggam, dan
+    jari-jemarinya menganggap ke atas. (*)
+
+    (7) HADITS RIWAYAT AL-BUKHARI DAN MUSLIM.
+    (8) HADITS RIWAYAT AL-BUKHARI DAN MUSLIM.
+    (9) HADITS RIWAYAT AL-BUKHARI DAN MUSLIM.
+    (10) HADITS RIWAYAT MUSLIM.
+    (11) HADITS RIWAYAT AL-BUKHARI DAN ABU DAWUD.
+    (12) HADITS RIWAYAT AL-BUKHARI DAN MUSLIM.
+    (*) HADITS SHAHIH RIWAYAT ABU DAWUD.</string>
+
+    <string name="s3">
+    - Meletakkan telapak tangan kanan di atas punggung telapak tangan kiri,
+	  atau di pergelangan, atau di lengan bawah tangan kiri, atau tangan kanan
+	  menggenggam tangan kiri, (13)\n dan posisi kedua tangan di dada. (14)\n
+	  (Lihat gambar No. 4, 5, dan 6).
+	- Membaca do\'a istiftah. (15)\n
+
+	(13) HADITS SHAHIH RIWAYAT AN-NASA-I.
+	(14) HADITS SHAIH RIWAYAT ABU DAWUD DAN AN-NASA-I.
+	(15) HADITS SHAHIH RIWAYAT ABU DAWUD.
+
+    </string>
+
+    <string name="s4">
+    - Membaca Ta\'awwudz. (16)\n
+	- Membaca surat al-Faatihah, namun bacaan "Bismillaahirrahmaanirrahiim"
+	  dipelankan (tidak dikeraskan). (17)\n
+
+	(16) HADITS SHAHIH RIWAYAT ABU DAWUD DAN SELAINNYA.
+	(17) HADITS SHAHIH RIWAYAT AN-NASA-I.
+        </string>
+
+    <string name="s5">
+    - Membaca : "Aamiin" setelah membaca "Waladhdhaalliin." (18)\n
+	- Setelah membaca al-Faatihah, bacalah salah satu surat atau ayat-ayat
+	  ayat al-Qur-an yang engkau hafal. (19)\n
+	  Bacaan surat atau ayat-ayat ini dibaca pada raka\'at pertama kan kedua
+	  saja.
+	- Setelah selesai membaca surat, maka berdiam sejenak (Thuma\'niinah). (20)\n
+
+	(18) HADITS RIWAYAT AL-BUKHARI DAN MUSLIM.
+	(19) HADITS RIWAYAT AL-BUKHARI DAN MUSLIM.
+	(20) HADITS RIWAYAT ABU DAWUD DAN AT-TIRMIDZI.
+        </string>
+
+    <string name="s6">
+    - Melakukan ruku\' sambil bertakbir (mengucapkan : "Allaahu Akbar") dan
+	  mengangkat kedua tangan sejajar dengan pundak atau telinga. (21)\n
+		Posisi ruku\' : Punggung rata, dan kepala sejajar dengan punggung. (22)\n
+		Kedua telapak tangan diletakkan (23)\n atau menggenggam (24)\n kedua
+		lutut dan jari-jemari direnggangkan. (25)\n
+		Lakukanlah ruku\' dengan thuma\'niinah yaitu diam sejenak, hingga
+		tulang-tulang menempati posisi. (26)\n (Lihat gambar No. 7 dan 8)
+	- Kemudian membaca do\'a ruku\'. (27)\n
+
+	(21) HADITS RIWAYAT AL-BUKHARI DAN MUSLIM.
+	(22) HADITS SHAHIH RIWAYAT ABU DAWUD.
+	(23) HADITS RIWAYAT AL-BUKHARI.
+	(24) HADITS SHAHIH RIWAYAT ABU DAWUD.
+	(25) HADITS RIWAYAT AL-BUKHARI
+	(26) HADITS RIWAYAT AL-BUKHARI DAN MUSLIM.
+	(27) HADITS RIWAYAT MUSLIM.
+        </string>
+
+    <string name="s7">
+    - Bangkit dari ruku\' (I\'tidaal), dengan mengangkat kedua tangan sejajar dengan
+	  bahu atau kedua telinga (Lihat gambar No. 9). (28)\n
+	- Setelah tegak berdiri (Lihat gambar No. 10). (29)\n
+	  Ketika berdiri inipun harus tenang, tidak terburu-buru. (30)\n
+
+	(28) HADITS RIWAYAT AL-BUKHARI DAN MUSLIM.
+	(29) HADITS RIWAYAT AL-BUKHARI DAN MUSLIM.
+	(30) HADITS RIWAYAT AL-BUKHARI DAN MUSLIM.
+    </string>
+
+    <string name="s8">
+    - Melakukan sujud sambil bertakbir, kemudian meletakkan kedua lutut terlebih
+	  dahulu dari kedua tangan (atau boleh pula sebaliknya). (31)\n (Lihat gambar No. 11)
+	- Posisi sujud : Kedua telapak tangan dibuka, tidak mengepal,
+	  dan diletakkan sejajar dengan bahu atau telinga, kedua sikut diangkat,
+	  dijauhkan dari lantai dan direnggangkan/dijauhkan dari lambung kiri dan
+      kanan, sehingga ketiak kelihatan, kecuali ketika shalat berjama\'ah,
+      maka kedua sikut dirapatkan ke sisi lambung. (32)\n (Lihat gambar No. 12)
+	- Posisi jari-jemari ketika sujud : Jari-jemari tangan dirapatkan (33)\n
+		  dan menghadap kiblat. (34)\n
+
+	(31) HADITS SHAHIH RIWAYAT ABU DAWUD.
+	(32) HADITS SHAHIH RIWAYAT ABU DAWUD DAN AN-NASA-I.
+	(33) HADITS SHAHIH RIWAYAT IBNU KHUZAIMAH.
+	(34) HADITS RIWAYAT AL-BUKHARI.
+    </string>
+
+    <string name="s9">
+    - Posisi ketika sujud : Kedua paha dibuka, (35)\n lalu ujung jari-jemari kaki
+    menghadap kiblat dan kedua telapak kaki ditegakkan serta kedua tumit
+    dirapatkan. (36)\n (Lihat gambar No. 13) Jarak antara paha dan lambung
+    dijauhkan. (*)
+    - Sujudlah dengan thuma\'niinah dan lakukanlah dengan menempelkan tujuh anggota
+    badan : dahi dan hidung, kedua tangan, kedua lutut, dan ujung jari-jemari
+    kedua kaki. (37)\n (Lihat gambar No. 14)
+    - Lalu baca do\'a sujud. (38)\n
+
+    (35) HADITS RIWAYAT AL-BUKHARI DAN MUSLIM.
+    (36) HADITS SHAHIH RIWAYAT IBNU KHUZAIMAH.
+    (*) KITAB AL-QAULUL MUBIN FII AKHTAAIL MUSHALLIIN.
+    (37) HADITS RIWAYAT AL-BUKHARI DAN MUSLIM.
+    (38) HADITS RIWAYAT MUSLIM.
+    </string>
+
+    <string name="s10">
+    - Bangkit dari sujud sambil bertakbir lalu duduk Iftirasy (untuk duduk diantara
+    dua sujud), yaitu duduk dengan bertumpu pada telapak kaki kiri dan telapak
+    kaki kanan ditegakkan. (39)\n (Lihat gambar No. 15)
+
+    (39) HADITS RIWAYAT MUSLIM.
+    </string>
+
+    <string name="s11">
+
+    - Posisi tangan ketika duduk iftirasy : Telapak tangan kanan diletakkan di atas
+    paha kanan, demikian pula dengan tangan kiri. (40)\n Atau telapak tangan kanan
+    diletakkan di lutut kanan seolah-olah menggenggamnya, demikian pula telapak
+    tangan kiri. (41)\n (Lihat gambar No. 16 dan 17)
+    - Membaca do\'a di antara dua sujud. (42)\n
+
+    (40) HADITS RIWAYAT MUSLIM.
+    (41) HADITS SHAHIH RIWAYAT AN-NASA-I.
+    (42) HADITS SHAHIH RIWAYAT ABU DAWUD.
+    </string>
+
+    <string name="s12">
+    - Lalu sujud kembali, kemudian bangkit dari sujud sambil bertakbir, dan duduk
+    sejenak sebagai duduk istirahat. (43)\n Kemudian bangkit dengan mengepalkan
+    tangan (44)\n atau dengan membukanya. (45)\n (Lihat gambar No. 18 dan 19)
+    Raka\'at Kedua :
+    - Melakukan raka\'at kedua dengan bersedekap, lalu membaca surat al-Faatihah. (46)\n
+    -Raka\'at kedua lebih singkat dari raka\'at pertama. (47)\n Sehingga membaca
+    surat yang lebih pendek dari surat di raka\'at pertama. Kemudian ruku\',
+    i\'tidaal, sujud, dan duduk di antara dua sujud sebagimana pada raka\'at
+    pertama.
+
+    (43) HADITS RIWAYAT AL-BUKHARI DAN MUSLIM.
+    (44) HADITS SHAHIH RIWAYAT AL-BAIHAQI.
+    (45) HADITS RIWAYAT AL-BUKHARI.
+    (46) HADITS RIWAYAT MUSLIM.
+    (47) HADITS RIWAYAT MUSLIM.
+    </string>
+
+    <string name="s13">
+    - Setelah sujud kedua, maka lakukanlah Tasyahhud Awal dengan posisi duduk yaitu
+    duduk Iftirasy. (Lihat gambar No. 20)
+    Posisi tangan ketika tasyahhud awal :
+    - Tangan kanan menggenggam jari kelingking dan jari manis, adapun ibu
+    jari tengah membentuk lingkaran, (Lihat gambar No. 21) atau boleh
+    juga digenggam seluruhnya. (Lihat gambar No. 22) Kemudian jari telunjuk
+    ditegakkan sambil digerak-gerakkan. (48)\n
+    - Pandangan mata harus bertuju pada telunjuk. (49)\n (Lihat gambar No. 23)
+
+    (48) HADITS SHAHIH RIWAYAT IBNU MAJAH.
+    (49) HADITS RIWAYAT MUSLIM.
+
+    </string>
+
+    <string name="s14">
+    - Lalu membaca do\'a Tasyahhud Awal. (50)\n
+
+    (50) HADITS RIWAYAT AL-BUKHARI DAN MUSLIM.
+    </string>
+    <string name="s15">
+    15.	- Lalu membaca do\'a shalawat. (51)\n
+
+    (51) HADITS RIWAYAT AL-BUKHARI DAN MUSLIM.
+
+    </string>
+    <string name="s16">
+    - Bila shalat Subuh, Jum\'at, atau shalat dua raka\'at lainnya, maka tidak ada
+    Tasyahhud Awal, namun langsung melakukan Tasyahhud Akhir, dengan posisi duduk
+    yaitu, duduk Iftirasy (52)\n dan membaca seperti bacaan di atas lalu di tambah
+    dengan do\'a. (53)\n
+    Lalu berdo\'a lagi sesuai dengan yang diinginkan.
+
+    (52) HADITS RIWAYAT AL-BUKHARI.
+    (53) HADITS RIWAYAT AL-BUKHARI DAN MUSLIM.
+    </string>
+    <string name="s17">
+
+    - Bila engkau telah melakukan Tasyahhud Awal, maka bangkitlah, lalu kerjakanlah
+    raka\'at ketiga dengan tangan bersedekap dan membaca al-Faatihah dan tidak
+    membaca surat lain setelahnya. Kemudian ruku\', i\'tidaal, sujud, dan duduk
+    di antara dua sujud lalu sujud kedua seperti biasa.
+    - Bila shalat Maghrib, maka di rakaat ketiga ini lakukanlah Tasyahhud Akhir
+    setelah melakukan sujud kedua. Posisi duduknya yaitu, duduk Tawarruk
+    (Dengan posisi : Telapak kaki kanan ditegakkan, kaki kiri diletakkan di bawah
+    kaki kanan, dan pantat duduk di lantai). (Lihat gambar No. 24) Bacaannya
+    sama dengan yang sebelumnya. (54)\n
+    - Bila tidak mampu duduk tawarruk seperti gambar No. 24, maka boleh melakukannya
+    seperti gambar No. 25.
+
+    (54) HADITS RIWAYAT AL-BUKHARI.
+    </string>
+
+    <string name="s18">
+    - Bila engkau telah melakukan sujud kedua, maka bangkitlah lalu kerjakanlah
+    raka\'at keempat. Lalu ruku\', I\'tidaal, sujud, duduk di antara dua sujud dan
+    sujud kedua seperti biasa. Maka lakukanlah Tasyahhud Akhir dengan posisi
+    duduk Tawarruk.
+    - Setelah itu salah, dimulai dengan menolehkan wajah ke kanan (Lihat gambar No. 26). (55)\n
+    - Lalu menolehkan wajah ke kiri (Lihat gambar No. 27) dengan mengucapkan
+    ucapan yang sama
+
+    (55) HADITS RIWAYAT MUSLIM.
+</string>
+</resources>

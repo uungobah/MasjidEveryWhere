@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_mosque"
+            android:icon="@drawable/ic_location_on_black_24dp"
+            android:title="Mosque" />
+
+        <item
+            android:id="@+id/nav_add_mosque"
+            android:icon="@drawable/ic_create_black_24dp"
+            android:title="Add Mosque" />
+
+        <item
+            android:id="@+id/nav_doa"
+            android:icon="@drawable/ic_chrome_reader_mode_black_24dp"
+            android:title="Prayer" />
+        <item
+            android:id="@+id/nav_kiblat"
+            android:icon="@drawable/ic_near_me_black_24dp"
+            android:title="Qibla" />
+        <item
+            android:id="@+id/nav_ver"
+            android:icon="@drawable/ic_verified_user_black_24dp"
+            android:title="Verification" />
+    </group>
+
+    <item android:title="Other">
+        <menu>
+            <item
+                android:id="@+id/nav_alarm"
+                android:icon="@drawable/ic_settings_black_24dp"
+                android:title="Setting" />
+
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/ic_info_black_24dp"
+                android:title="About" />
+            <item
+                android:id="@+id/nav_loginorlogout"
+                android:icon="@drawable/ic_exit_to_app_black_24dp"
+                android:title="Login" />
+
+        </menu>
+    </item>
+
+</menu>
